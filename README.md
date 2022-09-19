@@ -13,7 +13,7 @@
 Emphasis, aka *italics*, with asterisks or *underscores*.
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
 Combined emphasis with **asterisks and underscores**.
-Striketthrough users two tildes. ~~Scratch this.
+Striketthrough users two tildes. ~~Scratch this.~~
 
 
 | Tables        | Are           | Cool       |
