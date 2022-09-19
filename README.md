@@ -12,7 +12,7 @@
 
 ```python
 s="Python Syntax Highlighting"
-| Left Tables   | Center Are    | Right Cool |
+| Left-Tables   | Center Are    | Right Cool |
 | :------------ | :-----------: | ----------:|
 | col 3 is      | right-aligned |      $1600 |
 | col 2 is      | centered      |        $12 |
