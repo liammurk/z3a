@@ -10,6 +10,9 @@
 - [ ] todo list
 - [x] done
 
+Emphasis, aka italics, with asterisks or underscores.
+
+
 | Tables        | Are           | Cool       |
 | :------------ | :-----------: | ----------:|
 | col 3 is      | right-aligned |      $1600 |
